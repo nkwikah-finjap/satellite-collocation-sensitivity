@@ -1,0 +1,5 @@
+mission,gas,unit,radius_min_km,radius_max_km,days_min,days_max,change_in_mean_difference
+OCO-2 v10r,CO2,ppm,100,600,4,17,-0.9600000000000001
+OCO-3 v10.4r,CO2,ppm,100,600,2,17,0.27
+TROPOMI,CH4,ppb,100,600,2,31,3.59
+TROPOMI,CO,ppb,25,125,32,42,0.8699999999999992

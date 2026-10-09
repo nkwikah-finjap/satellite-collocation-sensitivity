@@ -1,0 +1,5 @@
+mission,gas,unit,source_table,radius_km,comparison_days,satellite_retrievals,mean_difference,sd_difference
+OCO-2 v10r,CO2,ppm,B1,300,8,1725,-1.2,1.05
+OCO-3 v10.4r,CO2,ppm,B1,300,4,324,-1.15,1.61
+TROPOMI,CH4,ppb,B2,300,8,1674,-8.39,10.5
+TROPOMI,CO,ppb,B3,50,41,4738,-6.62,6.25

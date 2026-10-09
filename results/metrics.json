@@ -1,0 +1,55 @@
+{
+  "published_summary_rows": 23,
+  "source_tables": [
+    "B1",
+    "B2",
+    "B3"
+  ],
+  "raw_satellite_validation_performed": false,
+  "selected_radius_results": [
+    {
+      "mission": "OCO-2 v10r",
+      "gas": "CO2",
+      "unit": "ppm",
+      "source_table": "B1",
+      "radius_km": 300,
+      "comparison_days": 8,
+      "satellite_retrievals": 1725,
+      "mean_difference": -1.2,
+      "sd_difference": 1.05
+    },
+    {
+      "mission": "OCO-3 v10.4r",
+      "gas": "CO2",
+      "unit": "ppm",
+      "source_table": "B1",
+      "radius_km": 300,
+      "comparison_days": 4,
+      "satellite_retrievals": 324,
+      "mean_difference": -1.15,
+      "sd_difference": 1.61
+    },
+    {
+      "mission": "TROPOMI",
+      "gas": "CH4",
+      "unit": "ppb",
+      "source_table": "B2",
+      "radius_km": 300,
+      "comparison_days": 8,
+      "satellite_retrievals": 1674,
+      "mean_difference": -8.39,
+      "sd_difference": 10.5
+    },
+    {
+      "mission": "TROPOMI",
+      "gas": "CO",
+      "unit": "ppb",
+      "source_table": "B3",
+      "radius_km": 50,
+      "comparison_days": 41,
+      "satellite_retrievals": 4738,
+      "mean_difference": -6.62,
+      "sd_difference": 6.25
+    }
+  ]
+}
