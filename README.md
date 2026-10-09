@@ -39,13 +39,6 @@ Reproduced **23 rows** from the published Tables B1–B3. At 300 km, the publish
 ## Scope and limitations
 
 Analysis uses published summary tables. No new raw-satellite validation or mission-specific Level-0 to Level-2 processing is claimed. Matching code still needs mission QC, averaging kernels and prior harmonisation for a real validation campaign.
-
-Climate/health relevance: greenhouse-gas monitoring and emissions analysis provide
-climate context; none of these quantities directly estimates a person's exposure,
-disease risk or health outcome.
-
-## CV wording supported by this repository
-
 Reproduced published satellite–EM27/SUN collocation-radius sensitivity results for CO2, CH4 and CO, and tested reusable spatial/temporal matching functions.
 
 ## Research ownership and review
@@ -53,7 +46,7 @@ Reproduced published satellite–EM27/SUN collocation-radius sensitivity results
 This analysis was prepared collaboratively with coding assistance. All original
 observations and published results remain credited to their data providers.
 The researcher should reproduce the run, inspect the figures and understand the
-methods before presenting the work in an interview or extending it for publication.
+methods before presenting the work or extending it for publication.
 This repository is a portfolio study, not a peer-reviewed article.
 
 Contact: miranda.finjap@aims-cameroon.org
